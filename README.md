@@ -16,6 +16,8 @@
 
 2. [AWS Sagemaker - House Prediction](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_House_Prediction/AWSSagemaker_House_Prediction.ipynb)
 
+- In this project, I used classical house prediction data to show two different usage of AWS- Sagemaker (with Python SDK & with Boto3)
+
 3. [BOTO3](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_boto3/boto3_read_S3.ipynb)
 
 ![](https://cdn-images-1.medium.com/fit/t/700/400/1*DwPGGD3TmeBpxklRGsdfMA.png)
