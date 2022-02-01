@@ -48,6 +48,9 @@
 
 7. [Train a Text Classifier using **Amazon SageMaker BlazingText** built-in algorithm](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week4/C1_W4_Assignment.ipynb)
 
+- In this lab I used SageMaker BlazingText built-in algorithm to predict the sentiment for each customer review. 
+- BlazingText is a variant of FastText which is based on word2vec. 
+
 -------------------------------------------------
 
 [AWS Sagemaker examples - Forked from aws/amazon-sagemaker-examples](https://github.com/kb1907/amazon-sagemaker-examples) 
