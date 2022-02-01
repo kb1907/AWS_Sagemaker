@@ -24,4 +24,14 @@
 
 ![](https://cdn-images-1.medium.com/fit/t/700/400/1*DwPGGD3TmeBpxklRGsdfMA.png)
 
+---------------------------------------
+## Projects From [Practical Data Science Specialization](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/README.md)
+------------------------------------------
+
+4. [AWS Data Wrangler - Register and visualize dataset](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week1/C1_W1_Assignment_Learner.ipynb)
+5. [Detect data bias with Amazon SageMaker Clarify](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
+6. [Train a model with Amazon SageMaker Autopilot](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week3/C1_W3_Assignment.ipynb)
+7. [Train a text classifier using Amazon SageMaker BlazingText built-in algorithm](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week4/C1_W4_Assignment.ipynb)
+
+-------------------------------------------------
 4. [AWS Sagemaker examples - Forked from aws/amazon-sagemaker-examples](https://github.com/kb1907/amazon-sagemaker-examples) 
