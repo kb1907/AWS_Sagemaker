@@ -29,6 +29,11 @@
 ------------------------------------------
 
 4. [**AWS Data Wrangler** - Register and Visualize Dataset](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week1/C1_W1_Assignment_Learner.ipynb)
+
+- In this project I ingested and transformed the customer product reviews dataset. 
+- Then I used AWS data stack services such as AWS Glue and Amazon Athena for ingesting and querying the dataset. 
+- Finally I used AWS Data Wrangler to analyze the dataset and plot some visuals extracting insights.
+
 5. [Detect Data Bias with **Amazon SageMaker Clarify**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
 6. [Train a Model with **Amazon SageMaker Autopilot**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week3/C1_W3_Assignment.ipynb)
 7. [Train a Text Classifier using **Amazon SageMaker BlazingText** built-in algorithm](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week4/C1_W4_Assignment.ipynb)
