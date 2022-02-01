@@ -20,6 +20,8 @@
 
 3. [BOTO3](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_boto3/boto3_read_S3.ipynb)
 
+- In this project I made a gentle intro to Boto3 library.
+
 ![](https://cdn-images-1.medium.com/fit/t/700/400/1*DwPGGD3TmeBpxklRGsdfMA.png)
 
 4. [AWS Sagemaker examples - Forked from aws/amazon-sagemaker-examples](https://github.com/kb1907/amazon-sagemaker-examples) 
