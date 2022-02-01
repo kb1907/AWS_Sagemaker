@@ -35,6 +35,11 @@
 - Finally I used AWS Data Wrangler to analyze the dataset and plot some visuals extracting insights.
 
 5. [Detect Data Bias with **Amazon SageMaker Clarify**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
+
+- Bias can be present in data before any model training occurs. 
+- Inspecting the dataset for bias can help detect collection gaps, inform our feature engineering, and understand societal biases the dataset may reflect. 
+- In this project I analyzed bias on the dataset, generated and analyzed bias report, and prepared the dataset for the model training.
+
 6. [Train a Model with **Amazon SageMaker Autopilot**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week3/C1_W3_Assignment.ipynb)
 7. [Train a Text Classifier using **Amazon SageMaker BlazingText** built-in algorithm](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week4/C1_W4_Assignment.ipynb)
 
