@@ -67,7 +67,8 @@
 
 11. [A/B testing, traffic shifting and autoscaling](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week2/C3_W2_Assignment.ipynb)
 
-- 
+- In this project, I made an endpoint with multiple variants, splitting the traffic between them. 
+- Then after testing and reviewing the endpoint performance metrics, I shifted the traffic to one variant and configure it to autoscale.
 
 12. [Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week3/C3_W3_Assignment.ipynb)
 
