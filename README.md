@@ -72,6 +72,12 @@
 
 12. [Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week3/C3_W3_Assignment.ipynb)
 
+- In this project, I made my own human workforce, a human task UI, and then defined the human review workflow to perform data labeling. 
+- I made the original predictions of the labels with the custom ML model, and then made a human loop if the probability scores are lower than the preset threshold. 
+- After the completion of the human loop tasks, I reviewed the results and prepare data for re-training.
+
+
+
 -------------------------------------------------
 
 [AWS Sagemaker examples - Forked from aws/amazon-sagemaker-examples](https://github.com/kb1907/amazon-sagemaker-examples) 
