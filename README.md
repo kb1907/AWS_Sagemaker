@@ -48,8 +48,28 @@
 
 7. [Train a Text Classifier using **Amazon SageMaker BlazingText** built-in algorithm](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week4/C1_W4_Assignment.ipynb)
 
-- In this lab I used SageMaker BlazingText built-in algorithm to predict the sentiment for each customer review. 
+- In this project, I used SageMaker BlazingText built-in algorithm to predict the sentiment for each customer review. 
 - BlazingText is a variant of FastText which is based on word2vec. 
+
+8. [Feature transformation with Amazon SageMaker processing job and Feature Store](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Build%20Train%20and%20Deploy%20ML%20Pipelines%20using%20BERT/Week1/C2_W1_Assignment.ipynb)
+
+- In this project I started with the raw Women's Clothing Reviews dataset 
+- And prepared it to train a BERT-based natural language processing (NLP) model. 
+
+
+9. [Train a review classifier with BERT and Amazon SageMaker](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Build%20Train%20and%20Deploy%20ML%20Pipelines%20using%20BERT/Week2/C2_W2_Assignment.ipynb)
+
+- In this project, I trained a text classifier using a variant of BERT called RoBERTa - a Robustly Optimized BERT Pretraining Approach - within a PyTorch model ran as a SageMaker Training Job.
+
+10. [Optimize models using Automatic Model Tuning](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week1/C3_W1_Assignment.ipynb)
+
+-  In this project, I applied a random algorithm of Automated Hyperparameter Tuning to train a BERT-based natural language processing (NLP) classifier. 
+
+11. [A/B testing, traffic shifting and autoscaling](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week2/C3_W2_Assignment.ipynb)
+
+- 
+
+12. [Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week3/C3_W3_Assignment.ipynb)
 
 -------------------------------------------------
 
