@@ -7,7 +7,7 @@
 - All the projects were done by using real life data.
 - This folder will be updated constantly.
 - All the best 🤘
-- 
+
 
 ### AWS Sagemaker Projects
 
