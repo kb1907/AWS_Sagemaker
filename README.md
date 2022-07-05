@@ -12,6 +12,7 @@
 
 1. [AWS Sagemaker - Object Detection](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_Object_Detection/Sagemaker%20Object%20Detection%20-%20Learner%20Notebook.ipynb)
 
+
 - In this project I used AWS - Sagemaker for the object detection job. 
 
 2. [AWS Sagemaker - House Prediction](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_House_Prediction/AWSSagemaker_House_Prediction.ipynb)
