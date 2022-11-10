@@ -3,6 +3,7 @@
 ![](https://miro.medium.com/max/600/0*O3gm8pKaPqgKb-oM.png)
 
 
+
 - In this folder, different scale Machine Learning / Deep Learning / NLP projects by using AWS Sagemaker can be found.
 - All the projects were done by using real life data.
 - This folder will be updated constantly.
@@ -14,9 +15,11 @@
 
 
 
+
 - In this project I used AWS - Sagemaker for the object detection job. 
 
 2. [AWS Sagemaker - House Prediction](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_House_Prediction/AWSSagemaker_House_Prediction.ipynb)
+
 
 - In this project, I used classical house prediction data to show two different usage of AWS- Sagemaker (with Python SDK & with Boto3)
 
