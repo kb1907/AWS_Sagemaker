@@ -15,11 +15,9 @@
 
 
 
-
 - In this project I used AWS - Sagemaker for the object detection job. 
 
 2. [AWS Sagemaker - House Prediction](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_House_Prediction/AWSSagemaker_House_Prediction.ipynb)
-
 
 - In this project, I used classical house prediction data to show two different usage of AWS- Sagemaker (with Python SDK & with Boto3)
 
@@ -34,7 +32,6 @@
 ------------------------------------------
 
 4. [**AWS Data Wrangler** - Register and Visualize Dataset](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week1/C1_W1_Assignment_Learner.ipynb)
-
 
 - In this project I ingested and transformed the customer product reviews dataset. 
 - Then I used AWS data stack services such as AWS Glue and Amazon Athena for ingesting and querying the dataset. 
