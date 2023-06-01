@@ -3,7 +3,6 @@
 ![](https://miro.medium.com/max/600/0*O3gm8pKaPqgKb-oM.png)
 - In this folder, different scale Machine Learning / Deep Learning / NLP projects by using AWS Sagemaker can be found.
 - All the best 🤘
-- 
 ---------------------------------------
 ### AWS Sagemaker Projects
 
