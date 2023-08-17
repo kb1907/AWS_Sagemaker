@@ -2,6 +2,7 @@
 ![](https://miro.medium.com/max/600/0*O3gm8pKaPqgKb-oM.png)
 - In this folder, different scale Machine Learning / Deep Learning / NLP projects using AWS Sagemaker can be found.
 - All the best 🤘
+  
 ---------------------------------------
 ### AWS Sagemaker Projects
 1. [AWS Sagemaker - Object Detection](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_Object_Detection/Sagemaker%20Object%20Detection%20-%20Learner%20Notebook.ipynb)
@@ -24,7 +25,7 @@
 4. [**AWS Data Wrangler** - Register and Visualize Dataset](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week1/C1_W1_Assignment_Learner.ipynb)
 
 - In this project, I ingested and transformed the customer product reviews dataset. 
-- Then I used AWS data stack services such as AWS Glue and Amazon Athena for ingesting and querying the dataset. 
+- Then, I used AWS data stack services such as AWS Glue and Amazon Athena for ingesting and querying the dataset. 
 - Finally, I used AWS Data Wrangler to analyze the dataset and plot some visuals extracting insights.
 
 5. [Detect Data Bias with **Amazon SageMaker Clarify**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
@@ -60,7 +61,7 @@
 11. [A/B testing, traffic shifting, and autoscaling](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week2/C3_W2_Assignment.ipynb)
 
 - In this project, I made an endpoint with multiple variants, splitting the traffic between them. 
-- Then after testing and reviewing the endpoint performance metrics, I shifted the traffic to one variant and configure it to autoscale.
+- After testing and reviewing the endpoint performance metrics, I shifted the traffic to one variant and configure it to autoscale.
 
 12. [Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week3/C3_W3_Assignment.ipynb)
 
