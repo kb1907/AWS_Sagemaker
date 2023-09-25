@@ -6,7 +6,7 @@
 ### AWS Sagemaker Projects
 1. [AWS Sagemaker - Object Detection](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_Object_Detection/Sagemaker%20Object%20Detection%20-%20Learner%20Notebook.ipynb)
 
-- In this project, I used AWS - Sagemaker for the object detection job. 
+- In this project, I used AWS-Sagemaker for the object detection job. 
 
 2. [AWS Sagemaker - House Prediction](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_House_Prediction/AWSSagemaker_House_Prediction.ipynb)
 
@@ -27,7 +27,9 @@
 - Then, I used AWS data stack services such as AWS Glue and Amazon Athena for ingesting and querying the dataset. 
 - Finally, I used AWS Data Wrangler to analyze the dataset and plot some visuals extracting insights.
 
+
 5. [Detect Data Bias with **Amazon SageMaker Clarify**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
+
 
 - Bias can be present in data before any model training occurs. 
 - Inspecting the dataset for bias can help detect collection gaps, inform our feature engineering, and understand societal preferences the dataset may reflect. 
