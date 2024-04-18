@@ -4,7 +4,6 @@
 - All the best 🤘
   ---------------------------------------
 
- 
 ### AWS Sagemaker Projects
 1. [AWS Sagemaker - Object Detection](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_Object_Detection/Sagemaker%20Object%20Detection%20-%20Learner%20Notebook.ipynb)
 
