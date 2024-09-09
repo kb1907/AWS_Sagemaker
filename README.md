@@ -17,7 +17,7 @@
 
 3. [BOTO3](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_boto3/boto3_read_S3.ipynb)
 
-- In this project, I made a gentle intro to the Boto3 library.
+- I made a gentle intro to the Boto3 library in this project.
 
 ![](https://cdn-images-1.medium.com/fit/t/700/400/1*DwPGGD3TmeBpxklRGsdfMA.png)
 ---------------------------------------
@@ -26,8 +26,8 @@
 
 4. [**AWS Data Wrangler** - Register and Visualize Dataset](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week1/C1_W1_Assignment_Learner.ipynb)
 
-- In this project, I ingested and transformed the customer product reviews dataset. 
-- Then, I used AWS data stack services such as AWS Glue and Amazon Athena for ingesting and querying the dataset. 
+- I ingested and transformed the customer product reviews dataset in this project. 
+- I used AWS data stack services, AWS Glue, and Amazon Athena to ingest and query the dataset. 
 - Finally, I used AWS Data Wrangler to analyze the dataset and plot some visuals extracting insights.
 
 
