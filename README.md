@@ -51,7 +51,7 @@
 8. [Feature transformation with Amazon SageMaker processing job and Feature Store](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Build%20Train%20and%20Deploy%20ML%20Pipelines%20using%20BERT/Week1/C2_W1_Assignment.ipynb)
 
 - In this project, I started with the raw Women's Clothing Reviews dataset 
-- And prepared it to train a BERT-based natural language processing (NLP) model. 
+- I prepared it to train a BERT-based natural language processing (NLP) model. 
 
 
 9. [Train a review classifier with BERT and Amazon SageMaker](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Build%20Train%20and%20Deploy%20ML%20Pipelines%20using%20BERT/Week2/C2_W2_Assignment.ipynb)
