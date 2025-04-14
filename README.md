@@ -27,7 +27,7 @@
 
 - I ingested and transformed the customer product reviews dataset in this project. 
 - I used AWS data stack services, AWS Glue, and Amazon Athena to ingest and query the dataset. 
-- Finally, I used AWS Data Wrangler to analyze the dataset and plot some visuals extracting insights.
+- Finally, I used AWS Data Wrangler to analyze the dataset and plot some visuals, extracting insights.
 
 
 5. [Detect Data Bias with **Amazon SageMaker Clarify**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
