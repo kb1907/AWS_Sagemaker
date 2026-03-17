@@ -33,7 +33,7 @@
 
 - Bias can be present in data before any model training occurs. 
 - Inspecting the dataset for bias can help detect collection gaps, inform our feature engineering, and understand societal preferences the dataset may reflect. 
-- In this project, I analyzed bias on the dataset, generated and analyzed bias reports, and prepared the dataset for the model training.
+- In this project, I analyzed bias in the dataset, generated and analyzed bias reports, and prepared the dataset for the model training.
 
 6. [Train a BERT Model with **Amazon SageMaker Autopilot**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week3/C1_W3_Assignment.ipynb)
 
@@ -62,13 +62,13 @@
 11. [A/B testing, traffic shifting, and autoscaling](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week2/C3_W2_Assignment.ipynb)
 
 - In this project, I made an endpoint with multiple variants, splitting the traffic between them. 
-- After testing and reviewing the endpoint performance metrics, I shifted the traffic to one variant and configure it to autoscale.
+- After testing and reviewing the endpoint performance metrics, I shifted the traffic to one variant and configured it to autoscale.
 
 12. [Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week3/C3_W3_Assignment.ipynb)
 
-- In this project, I made my human workforce, a human task UI and then defined the human review workflow to perform data labeling. 
+- In this project, I made my human workforce, a human task UI, and then defined the human review workflow to perform data labeling. 
 - I made the original predictions of the labels with the custom ML model and then made a human loop if the probability scores are lower than the preset threshold. 
-- After the completion of the human loop tasks, I reviewed the results and prepare data for re-training.
+- After the completion of the human loop tasks, I reviewed the results and prepared data for re-training.
 
 
 
