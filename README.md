@@ -71,7 +71,6 @@
 - After the completion of the human loop tasks, I reviewed the results and prepared data for re-training.
 
 
-
 -------------------------------------------------
 
 [AWS Sagemaker examples - Forked from aws/amazon-sagemaker-examples](https://github.com/kb1907/amazon-sagemaker-examples) 
