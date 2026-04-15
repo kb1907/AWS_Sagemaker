@@ -54,6 +54,7 @@
 
 - In this project, I trained a text classifier using a variant of BERT called RoBERTa - a Robustly Optimized BERT Pretraining Approach - within a PyTorch model run as a SageMaker Training Job.
 
+
 10. [Optimize models using Automatic Model Tuning](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week1/C3_W1_Assignment.ipynb)
 
 -  In this project, I applied a random algorithm of Automated Hyperparameter Tuning to train a BERT-based natural language processing (NLP) classifier. 
