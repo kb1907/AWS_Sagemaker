@@ -34,6 +34,7 @@
 - Inspecting the dataset for bias can help detect collection gaps, inform our feature engineering, and understand societal preferences the dataset may reflect. 
 - In this project, I analyzed bias in the dataset, generated and analyzed bias reports, and prepared the dataset for the model training.
 
+
 6. [Train a BERT Model with **Amazon SageMaker Autopilot**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week3/C1_W3_Assignment.ipynb)
 
 - I used Amazon Sagemaker Autopilot to train this project's BERT-based natural language processing (NLP) model. 
