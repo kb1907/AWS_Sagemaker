@@ -68,7 +68,7 @@
 
 - In this project, I made my human workforce, a human task UI, and then defined the human review workflow to perform data labeling. 
 - I made the original predictions of the labels with the custom ML model and then made a human loop if the probability scores are lower than the preset threshold. 
-- After the completion of the human loop tasks, I reviewed the results and prepared data for re-training.
+- After the completion of the human loop tasks, I reviewed the results and prepared data for retraining.
 -------------------------------------------------
 
-[AWS Sagemaker examples - Forked from aws/amazon-sagemaker-examples](https://github.com/kb1907/amazon-sagemaker-examples) 
+[AWS SageMaker examples - Forked from aws/amazon-sagemaker-examples](https://github.com/kb1907/amazon-sagemaker-examples) 
