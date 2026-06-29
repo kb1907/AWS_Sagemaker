@@ -29,7 +29,6 @@
 
 5. [Detect Data Bias with **Amazon SageMaker Clarify**](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
 
-
 - Bias can be present in data before any model training occurs. 
 - Inspecting the dataset for bias can help detect collection gaps, inform our feature engineering, and understand societal preferences the dataset may reflect. 
 - In this project, I analyzed bias in the dataset, generated and analyzed bias reports, and prepared the dataset for the model training.
