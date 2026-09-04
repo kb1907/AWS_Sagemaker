@@ -56,7 +56,7 @@
 
 10. [Optimize models using Automatic Model Tuning](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week1/C3_W1_Assignment.ipynb)
 
--  In this project, I applied a random algorithm of Automated Hyperparameter Tuning to train a BERT-based natural language processing (NLP) classifier. 
+-  In this project, I applied a random algorithm for automated hyperparameter tuning to train a BERT-based natural language processing (NLP) classifier. 
 
 11. [A/B testing, traffic shifting, and autoscaling](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week2/C3_W2_Assignment.ipynb)
 
