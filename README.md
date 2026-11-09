@@ -62,6 +62,7 @@
 - In this project, I made an endpoint with multiple variants, splitting the traffic between them. 
 - After testing and reviewing the endpoint performance metrics, I shifted the traffic to one variant and configured it to autoscale.
 
+
 12. [Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week3/C3_W3_Assignment.ipynb)
 
 - In this project, I made my human workforce, a human task UI, and then defined the human review workflow to perform data labeling. 
